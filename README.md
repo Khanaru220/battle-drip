@@ -1,4 +1,4 @@
-# -Battle-Drip 
+# -Battle-Drip (Clone practice)
 https://www.drip.com/pricing
 
 about body-flex for centering depend on element's size growth: we need to set fixed height for nesting elements so that they could grow from inside instead 100% width (because container has not been specified width)
