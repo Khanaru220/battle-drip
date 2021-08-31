@@ -1,6 +1,12 @@
 # -Battle-Drip (Clone practice)
 https://www.drip.com/pricing
 
+
+
+https://user-images.githubusercontent.com/74447462/131471173-15af4f3e-14fe-4d92-917e-b45a15b5c4a3.mp4
+
+
+
 about body-flex for centering depend on element's size growth: we need to set fixed height for nesting elements so that they could grow from inside instead 100% width (because container has not been specified width)
 
 NO!!! it was ok, but the <p> has large number of character -- enough for create new line (it large than 100% parent) so that the problems of character create newline, not problem of fixed height of nesting elements
