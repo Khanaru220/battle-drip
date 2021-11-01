@@ -1,7 +1,10 @@
 # -Battle-Drip (Clone practice)
-https://www.drip.com/pricing
+> https://www.drip.com/pricing
 
 
+------------
+
+_(Not kidding. Where's my headphone? 🗿)_
 
 https://user-images.githubusercontent.com/74447462/131471173-15af4f3e-14fe-4d92-917e-b45a15b5c4a3.mp4
 
